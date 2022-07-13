@@ -11,7 +11,7 @@ function formatDate(timestamp){
   let days = [
     "Sunday",
     "Monday",
-    "Teusday",
+    "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday",
@@ -26,7 +26,7 @@ function formatDay(timestamp){
   let days = [
     "Sun",
     "Mon",
-    "Teu",
+    "Tue",
     "Wed",
     "Thu",
     "Fri",
